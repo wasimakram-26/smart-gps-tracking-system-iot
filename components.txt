@@ -1,0 +1,5 @@
+Arduino Uno / ESP32
+GPS Module Neo-6M
+Connecting wires
+Breadboard
+Laptop for programming
